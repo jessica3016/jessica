@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Subsequente_LP2_modelo">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Subsequente_LP2_modelo"/>
+        <property name="java-output-path" value="/Subsequente_LP2_modelo/build/classes"/>
+    </wb-module>
+</project-modules>
